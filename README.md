@@ -1,4 +1,4 @@
-# Template Documentation
+# Documentation Guidelines
 
 > A collection of guides and examples of how to structure documentation
 
