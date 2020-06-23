@@ -39,3 +39,9 @@ Drag and drop the `Interactions.Interactor` GameObject into the `Source Interact
 Drag and drop the `Interactions.Interactor` GameObject into the `Source Interactor` property on the `Interactor Action Publisher Facade` component.
 
 ![Drag And Drop Interactions Interactor Into Source Publisher](assets/images/DragAndDropInteractionsInteractorIntoSourcePublisher.png)
+
+## Resources
+
+* Example Graphic
+  * [Fireworks PNG](assets/resource/FireworksPNG.fw.png)
+  * [Photoshop PSD](assets/resource/PhotoshopPSD.psd)

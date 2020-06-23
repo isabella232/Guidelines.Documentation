@@ -60,3 +60,9 @@ Create a new `Cube` Unity 3D Object by selecting `Main Menu -> GameObject -> 3D 
 Rename the new `Cube` to `Table`.
 
 ![Update Unity Transform Properties](assets/images/UpdateUnityTransformProperties.png)
+
+## Resources
+
+* Example Graphic
+  * [Fireworks PNG](assets/resource/FireworksPNG.fw.png)
+  * [Photoshop PSD](assets/resource/PhotoshopPSD.psd)
