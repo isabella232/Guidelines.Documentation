@@ -103,12 +103,16 @@ The link description for the image should be identical to the filename except it
 Most guides have the same actions in principle just with the specifics changed slightly. The wording of these steps should be formalized so the guides are consistent and easier to read.
 
 1. [Adding A Package To A Scene](Documentation/CommonGuideActions/AddingAPackageToAScene/README.md)
-2. [Creating A Unity Primitive](Documentation/CommonGuideActions/CreatingAUnityPrimitive/README.md)
-3. [Dragging A GameObject To A Component Property](Documentation/CommonGuideActions/DraggingAGameObjectToAComponentProperty/README.md)
-4. [Updating A Component Property Value](Documentation/CommonGuideActions/UpdatingAComponentPropertyValue/README.md)
-5. [Updating A Component List Property](Documentation/CommonGuideActions/UpdatingAComponentListProperty/README.md)
-6. [Adding A Unity Event Listener](Documentation/CommonGuideActions/AddingAUnityEventListener/README.md)
-7. [Resetting Component Property Back To None](Documentation/CommonGuideActions/ResettingComponentPropertyBackToNone/README.md)
+2. [Adding A Component To A GameObject](Documentation/CommonGuideActions/AddingAComponentToAGameObject/README.md)
+3. [Creating A Unity Primitive](Documentation/CommonGuideActions/CreatingAUnityPrimitive/README.md)
+4. [Creating A Code Snippet](Documentation/CommonGuideActions/CreatingACodeSnippet/README.md)
+5. [Dragging A GameObject To A Component Property](Documentation/CommonGuideActions/DraggingAGameObjectToAComponentProperty/README.md)
+6. [Updating A Component Property Value](Documentation/CommonGuideActions/UpdatingAComponentPropertyValue/README.md)
+7. [Updating A Component List Property](Documentation/CommonGuideActions/UpdatingAComponentListProperty/README.md)
+8. [Adding A Unity Event Listener](Documentation/CommonGuideActions/AddingAUnityEventListener/README.md)
+9. [Updating A Unity Event Listener](Documentation/CommonGuideActions/UpdatingAUnityEventListener/README.md)
+10. [Resetting Component Property Back To None](Documentation/CommonGuideActions/ResettingComponentPropertyBackToNone/README.md)
+11. [Showing The Scene](Documentation/CommonGuideActions/ShowingTheScene/README.md)
 
 ### Common Patterns
 
