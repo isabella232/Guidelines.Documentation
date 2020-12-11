@@ -55,12 +55,14 @@ The markdown will be rendered like so:
 The links in the bullet points need adding to the bottom of the markdown file.
 
 ```
-[Add the Tilia.Interactions.Interactor.Unity -> Interactions.Interactor]: https://github.com/ExtendRealityLtd/Tilia.Interactions.Interactables.Unity/tree/master/Documentation/HowToGuides/AddingAnInteractor
+[Add the Tilia.Interactions.Interactables.Unity -> Interactions.Interactor]: https://github.com/ExtendRealityLtd/Tilia.Interactions.Interactables.Unity/tree/master/Documentation/HowToGuides/AddingAnInteractor
 [Install the Tilia.Interactions.Interactables.Unity]: ../Installation/README.md
+[Unity]: https://unity.com/
 ```
 
-[Add the Tilia.Interactions.Interactor.Unity -> Interactions.Interactor]: https://github.com/ExtendRealityLtd/Tilia.Interactions.Interactables.Unity/tree/master/Documentation/HowToGuides/AddingAnInteractor
-[Install the Tilia.Interactions.Interactables.Unity]: ../Installation/README.md
+[Add the Tilia.Interactions.Interactables.Unity -> Interactions.Interactor]: https://github.com/ExtendRealityLtd/Tilia.Interactions.Interactables.Unity/tree/master/Documentation/HowToGuides/AddingAnInteractor
+[Install the Tilia.Interactions.Interactables.Unity]: https://github.com/ExtendRealityLtd/Tilia.Interactions.Interactables.Unity/tree/master/Documentation/HowToGuides/Installation
+[Unity]: https://unity.com/
 
 ### The Guide
 
