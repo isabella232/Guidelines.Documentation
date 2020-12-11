@@ -43,23 +43,23 @@ The prerequisites describe any prior setup required before the guide can be foll
 **Example**
 
 ```
-* [Add the Tilia.Interactions.Interactor.Unity] prefab to the scene Hierarchy.
+* [Add the Tilia.Interactions.Interactables.Unity -> Interactions.Interactor] prefab to the scene Hierarchy.
 * [Install the Tilia.Interactions.Interactables.Unity] package dependency in to your [Unity] project.
 ```
 
 The markdown will be rendered like so:
 
-* [Add the Tilia.Interactions.Interactor.Unity] prefab to the scene Hierarchy.
+* [Add the Tilia.Interactions.Interactables.Unity -> Interactions.Interactor] prefab to the scene Hierarchy.
 * [Install the Tilia.Interactions.Interactables.Unity] package dependency in to your [Unity] project.
 
 The links in the bullet points need adding to the bottom of the markdown file.
 
 ```
-[Add the Tilia.Interactions.Interactor.Unity]: https://github.com/ExtendRealityLtd/Tilia.Interactions.Interactables.Unity/tree/master/Documentation/HowToGuides/AddingAnInteractor
+[Add the Tilia.Interactions.Interactor.Unity -> Interactions.Interactor]: https://github.com/ExtendRealityLtd/Tilia.Interactions.Interactables.Unity/tree/master/Documentation/HowToGuides/AddingAnInteractor
 [Install the Tilia.Interactions.Interactables.Unity]: ../Installation/README.md
 ```
 
-[Add the Tilia.Interactions.Interactor.Unity]: https://github.com/ExtendRealityLtd/Tilia.Interactions.Interactables.Unity/tree/master/Documentation/HowToGuides/AddingAnInteractor
+[Add the Tilia.Interactions.Interactor.Unity -> Interactions.Interactor]: https://github.com/ExtendRealityLtd/Tilia.Interactions.Interactables.Unity/tree/master/Documentation/HowToGuides/AddingAnInteractor
 [Install the Tilia.Interactions.Interactables.Unity]: ../Installation/README.md
 
 ### The Guide
@@ -119,3 +119,17 @@ Most guides have the same actions in principle just with the specifics changed s
 * Arrows in screenshots should only be used to convey motion e.g. dragging and dropping.
 * Pink outline boxes should be used to highlight an area that is a property that can be changed or a button that can be clicked.
 * GameObject paths should always be the complete hierarchy path e.g. `TopLevelObject -> ChildObject -> ActualObject`.
+
+### Common Word Styling
+
+* Unity should always start with an uppercase `U` and the first occurrence of the word should be linked to the [Unity](https://unity.com/) website.
+* GameObject should always be uppercase `G` and uppercase `O` and not highlighted in a code block.
+* Any Unity window/tab label should start with an uppercase letter:
+  * `Project` - Unity Project window.
+  * `Hierarchy` - Unity Hierarchy window, Unity scene Hierarchy, from the Unity Hierarchy, etc.
+  * When the word hierarchy is used and not referring to the Unity Hierarchy window, it should be lowercase `h` unless at the start of a sentence then should be a capitalized `H`.
+* When a function of Unity is referred to, always refer to it as the Unity software
+  * Correct: `do functionX in the Unity software.`
+  * Incorrect: `do functionX in Unity.`
+* Field values are always referred to as property and in lowercase.
+* Components are referred to as component and in lowercase.
