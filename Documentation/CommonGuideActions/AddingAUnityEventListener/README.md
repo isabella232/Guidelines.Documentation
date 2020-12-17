@@ -3,7 +3,7 @@
 ## Text Example
 
 ```
-Select the `<GameObject>` GameObject from the Unity Hierarchy and click the `+` symbol in the bottom right corner of the `<Event Name>` event parameter on the `<Component>` component.
+Select the `<GameObject>` GameObject from the Unity Hierarchy window and click the `+` symbol in the bottom right corner of the `<Event Name>` event parameter on the `<Component>` component.
 
 Drag and drop the `<GameObject>` GameObject into the event listener box that appears on the `<Event Name>` event parameter on the `<Component>` component that displays `None (Object)`.
 
@@ -18,7 +18,7 @@ Select a function to perform when the `<Event Name>` event is emitted. For this 
 
 > Markdown output example
 
-Select the `<GameObject>` GameObject from the Unity Hierarchy and click the `+` symbol in the bottom right corner of the `<Event Name>` event parameter on the `<Component>` component.
+Select the `<GameObject>` GameObject from the Unity Hierarchy window and click the `+` symbol in the bottom right corner of the `<Event Name>` event parameter on the `<Component>` component.
 
 Drag and drop the `<GameObject>` GameObject into the event listener box that appears on the `<Event Name>` event parameter on the `<Component>` component that displays `None (Object)`.
 
@@ -51,7 +51,7 @@ Select a function to perform when the `<Event Name>` event is emitted. For this 
 ```
 ### Step X
 
-Select the `OpacityChangingInteractable -> Interactions.ActionReceiver -> OutputActions -> FloatAction` GameObject from the Unity Hierarchy and click the `+` symbol in the bottom right corner of the `Value Changed` event parameter on the `Float Action` component.
+Select the `OpacityChangingInteractable -> Interactions.ActionReceiver -> OutputActions -> FloatAction` GameObject from the Unity Hierarchy window and click the `+` symbol in the bottom right corner of the `Value Changed` event parameter on the `Float Action` component.
 
 Drag and drop the `OpacityChangingInteractable -> OpacityChanger` GameObject into the event listener box that appears on the `Value Changed` event parameter on the `Float Action` component that displays `None (Object)`.
 
@@ -68,7 +68,7 @@ Select a function to perform when the `Value Changed` event is emitted. For this
 
 ### Step X
 
-Select the `OpacityChangingInteractable -> Interactions.ActionReceiver -> OutputActions -> FloatAction` GameObject from the Unity Hierarchy and click the `+` symbol in the bottom right corner of the `Value Changed` event parameter on the `Float Action` component.
+Select the `OpacityChangingInteractable -> Interactions.ActionReceiver -> OutputActions -> FloatAction` GameObject from the Unity Hierarchy window and click the `+` symbol in the bottom right corner of the `Value Changed` event parameter on the `Float Action` component.
 
 Drag and drop the `OpacityChangingInteractable -> OpacityChanger` GameObject into the event listener box that appears on the `Value Changed` event parameter on the `Float Action` component that displays `None (Object)`.
 

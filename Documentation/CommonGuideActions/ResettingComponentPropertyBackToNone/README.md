@@ -3,14 +3,14 @@
 ## Text Example
 
 ```
-Select the `<GameObject>` GameObject from the Unity Hierarchy and set the `<Property>` property on the `<Component>` component back to `None` by clicking the object picker icon next to the property field and in the `Select <Type>` popup window then choose `None` from the list.
+Select the `<GameObject>` GameObject from the Unity Hierarchy window and set the `<Property>` property on the `<Component>` component back to `None` by clicking the object picker icon next to the property field and in the `Select <Type>` popup window then choose `None` from the list.
 ```
 
 ---
 
 > Markdown output example
 
-Select the `<GameObject>` GameObject from the Unity Hierarchy and set the `<Property>` property on the `<Component>` component back to `None` by clicking the object picker icon next to the property field and in the `Select <Type>` popup window then choose `None` from the list.
+Select the `<GameObject>` GameObject from the Unity Hierarchy window and set the `<Property>` property on the `<Component>` component back to `None` by clicking the object picker icon next to the property field and in the `Select <Type>` popup window then choose `None` from the list.
 
 ## Image Example
 
@@ -25,7 +25,7 @@ Select the `<GameObject>` GameObject from the Unity Hierarchy and set the `<Prop
 ```
 ### Step X
 
-Select the `Indicators.ObjectPointers.Curved` GameObject from the Unity Hierarchy and set the `Follow Source` property on the `Pointer Facade` component back to `None` by clicking the object picker icon next to the property field and in the `Select GameObject` popup window then choose `None` from the list.
+Select the `Indicators.ObjectPointers.Curved` GameObject from the Unity Hierarchy window and set the `Follow Source` property on the `Pointer Facade` component back to `None` by clicking the object picker icon next to the property field and in the `Select GameObject` popup window then choose `None` from the list.
 
 ![Reset Follow Source To None](assets/images/ResetFollowSourceToNone.png)
 ```
@@ -36,7 +36,7 @@ Select the `Indicators.ObjectPointers.Curved` GameObject from the Unity Hierarch
 
 ### Step X
 
-Select the `Indicators.ObjectPointers.Curved` GameObject from the Unity Hierarchy and set the `Follow Source` property on the `Pointer Facade` component back to `None` by clicking the object picker icon next to the property field and in the `Select GameObject` popup window then choose `None` from the list.
+Select the `Indicators.ObjectPointers.Curved` GameObject from the Unity Hierarchy window and set the `Follow Source` property on the `Pointer Facade` component back to `None` by clicking the object picker icon next to the property field and in the `Select GameObject` popup window then choose `None` from the list.
 
 ![Reset Follow Source To None](assets/images/ResetFollowSourceToNone.png)
 

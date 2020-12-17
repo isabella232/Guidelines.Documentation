@@ -3,14 +3,14 @@
 ## Text Example
 
 ```
-Select the `<GameObject>` GameObject from the Unity Hierarchy and on the `<Component>` component change the `Property` property value to `<new value>`.
+Select the `<GameObject>` GameObject from the Unity Hierarchy window and on the `<Component>` component change the `Property` property value to `<new value>`.
 ```
 
 ---
 
 > Markdown output example
 
-Select the `<GameObject>` GameObject from the Unity Hierarchy and on the `<Component>` component change the `Property` property value to `<new value>`.
+Select the `<GameObject>` GameObject from the Unity Hierarchy window and on the `<Component>` component change the `Property` property value to `<new value>`.
 
 ## Image Example
 
@@ -25,7 +25,7 @@ Select the `<GameObject>` GameObject from the Unity Hierarchy and on the `<Compo
 ```
 ### Step X
 
-Select the `Interactions.LinearJointDrive` GameObject from the Unity Hierarchy and on the `Linear Drive Facade` component change the `Drive Speed` property value to `10`.
+Select the `Interactions.LinearJointDrive` GameObject from the Unity Hierarchy window and on the `Linear Drive Facade` component change the `Drive Speed` property value to `10`.
 
 ![Update Drive Speed Value To 10](assets/images/UpdateDriveSpeedValueTo10.png)
 ```
@@ -36,6 +36,6 @@ Select the `Interactions.LinearJointDrive` GameObject from the Unity Hierarchy a
 
 ### Step X
 
-Select the `Interactions.LinearJointDrive` GameObject from the Unity Hierarchy and on the `Linear Drive Facade` component change the `Drive Speed` property value to `10`.
+Select the `Interactions.LinearJointDrive` GameObject from the Unity Hierarchy window and on the `Linear Drive Facade` component change the `Drive Speed` property value to `10`.
 
 ![Update Drive Speed Value To 10](assets/images/UpdateDriveSpeedValueTo10.png)
