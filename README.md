@@ -43,13 +43,13 @@ The prerequisites describe any prior setup required before the guide can be foll
 **Example**
 
 ```
-* [Add the Tilia.Interactions.Interactables.Unity -> Interactions.Interactor] prefab to the scene Hierarchy.
+* [Add the Tilia.Interactions.Interactables.Unity -> Interactions.Interactor] prefab to the scene hierarchy.
 * [Install the Tilia.Interactions.Interactables.Unity] package dependency in to your [Unity] project.
 ```
 
 The markdown will be rendered like so:
 
-* [Add the Tilia.Interactions.Interactables.Unity -> Interactions.Interactor] prefab to the scene Hierarchy.
+* [Add the Tilia.Interactions.Interactables.Unity -> Interactions.Interactor] prefab to the scene hierarchy.
 * [Install the Tilia.Interactions.Interactables.Unity] package dependency in to your [Unity] project.
 
 The links in the bullet points need adding to the bottom of the markdown file.
@@ -94,7 +94,7 @@ The guide text goes here.
 
 #### Images
 
-Images should clearly show the step in a simple graphical way and should be in `PNG8` image format.
+Images should clearly show the step in a simple graphical way and should be in `PNG8` image format at `72dpi`.
 
 The filename of the image should describe what is going on in the image so that screen readers can convey the message of the image to those who are visually impaired. The filename should be in PascalCase (the first letter of each word should be uppercase) and there should be no spaces between each word.
 
@@ -128,7 +128,7 @@ Most guides have the same actions in principle just with the specifics changed s
 * GameObject should always be uppercase `G` and uppercase `O` and not highlighted in a code block.
 * Any Unity window/tab label should start with an uppercase letter:
   * `Project` - Unity Project window.
-  * `Hierarchy` - Unity Hierarchy window, Unity scene Hierarchy, from the Unity Hierarchy, etc.
+  * `Hierarchy` - Unity Hierarchy window.
   * When the word hierarchy is used and not referring to the Unity Hierarchy window, it should be lowercase `h` unless at the start of a sentence then should be a capitalized `H`.
 * When a function of Unity is referred to, always refer to it as the Unity software
   * Correct: `do functionX in the Unity software.`

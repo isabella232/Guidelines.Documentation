@@ -5,15 +5,15 @@
 ```
 ### Step X1
 
-Select the `<GameObject>` GameObject from the Unity Hierarchy then increase the `<Property Name> -> Elements -> Size` property value by `<number to increase by>` on the `<Component>` component.
+Select the `<GameObject>` GameObject from the Unity Hierarchy window then increase the `<Property Name> -> Elements -> Size` property value by `<number to increase by>` on the `<Component>` component.
 
 > The size property will be `0` by default, so change it to `<number to change to>`.
 
 ### Step X2
 
-Drag and drop the `<GameObject>` GameObject into the newly created `Element 0` property value within `<Paramter Field>` property on the `<Component>` component.
+Drag and drop the `<GameObject>` GameObject into the newly created `Element 0` property value within `<Parameter Field>` property on the `<Component>` component.
 
-> Do this for all other List items.
+> Do this for all other <List items>.
 ```
 
 ---
@@ -22,22 +22,22 @@ Drag and drop the `<GameObject>` GameObject into the newly created `Element 0` p
 
 ### Step X1
 
-Select the `<GameObject>` GameObject from the Unity Hierarchy then increase the `<Property Name> -> Elements -> Size` property value by `<number to increase by>` on the `<Component>` component.
+Select the `<GameObject>` GameObject from the Unity Hierarchy window then increase the `<Property Name> -> Elements -> Size` property value by `<number to increase by>` on the `<Component>` component.
 
 > The size property will be `0` by default, so change it to `<number to change to>`.
 
 ### Step X2
 
-Drag and drop the `<GameObject>` GameObject into the newly created `Element 0` property value within `<Paramter Field>` property on the `<Component>` component.
+Drag and drop the `<GameObject>` GameObject into the newly created `Element 0` property value within `<Parameter Field>` property on the `<Component>` component.
 
-> Do this for all other List items.
+> Do this for all other `<List items>`.
 
 ## Final Output
 
 ```
 ### Step X1
 
-Select the `OpacityChangingInteractable -> Interactions.ActionReceiver` GameObject from the Unity Hierarchy then increase the `Source Publishers -> Elements -> Size` property value by `2` on the `Interactable Action Receiver Facade` component.
+Select the `OpacityChangingInteractable -> Interactions.ActionReceiver` GameObject from the Unity Hierarchy window then increase the `Source Publishers -> Elements -> Size` property value by `2` on the `Interactable Action Receiver Facade` component.
 
 > The size property will be `0` by default, so change it to `2`.
 
@@ -58,7 +58,7 @@ Drag and drop the `CameraRigs.TrackedAlias -> Aliases -> LeftControllerAlias -> 
 
 ### Step X1
 
-Select the `OpacityChangingInteractable -> Interactions.ActionReceiver` GameObject from the Unity Hierarchy then increase the `Source Publishers -> Elements -> Size` property value by `2` on the `Interactable Action Receiver Facade` component.
+Select the `OpacityChangingInteractable -> Interactions.ActionReceiver` GameObject from the Unity Hierarchy window then increase the `Source Publishers -> Elements -> Size` property value by `2` on the `Interactable Action Receiver Facade` component.
 
 > The size property will be `0` by default, so change it to `2`.
 

@@ -3,7 +3,7 @@
 ## Text Example
 
 ```
-Select the `<GameObject>` GameObject from the Unity Hierarchy and click the `Add Component` button, then select the `<Component>` component.
+Select the `<GameObject>` GameObject from the Unity Hierarchy window and click the `Add Component` button, then select the `<Component>` component.
 
 This newly created `<Component>` will be _insert reason for adding component_.
 ```
@@ -12,7 +12,7 @@ This newly created `<Component>` will be _insert reason for adding component_.
 
 > Markdown output example
 
-Select the `<GameObject>` GameObject from the Unity Hierarchy and click the `Add Component` button, then select the `<Component>` component.
+Select the `<GameObject>` GameObject from the Unity Hierarchy window and click the `Add Component` button, then select the `<Component>` component.
 
 This newly created `<Component>` will be _insert reason for adding component_.
 
@@ -29,7 +29,7 @@ This newly created `<Component>` will be _insert reason for adding component_.
 ```
 ### Step X
 
-Select the `MyAction` GameObject from the Unity Hierarchy and click the `Add Component` button, then select the `Boolean Action` component.
+Select the `MyAction` GameObject from the Unity Hierarchy window and click the `Add Component` button, then select the `Boolean Action` component.
 
 This newly created `Boolean Action` will be the action that defines the toggle state of our GameObject.
 
@@ -42,7 +42,7 @@ This newly created `Boolean Action` will be the action that defines the toggle s
 
 ### Step X
 
-Select the `MyAction` GameObject from the Unity Hierarchy and click the `Add Component` button, then select the `Boolean Action` component.
+Select the `MyAction` GameObject from the Unity Hierarchy window and click the `Add Component` button, then select the `Boolean Action` component.
 
 This newly created `Boolean Action` will be the action that defines the toggle state of our GameObject.
 
