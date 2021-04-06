@@ -3,31 +3,41 @@
 ## Text Example
 
 ```
-Expand the `<Package Name Goes Here>` package directory in the Unity Project window and select the `Packages -> <Package Name> -> Runtime -> Prefabs` directory then drag and drop the `<NameOf.Prefab>` prefab into the Unity Hierarchy window.
+Add a `<NameOf.Prefab>` prefab to the Unity project hierarchy by selecting `GameObject -> Tilia -> Prefabs -> <Package Path> -> <NameOf.Prefab>` from the Unity main top menu.
+```
+
+_or_
+
+```
+Add a `<NameOf.Prefab>` prefab to the Unity project hierarchy by selecting `GameObject -> Tilia -> Prefabs -> <Package Path> -> <NameOf.Prefab>` from the Unity main top menu and drag it into being a child of the `<Parent GameObject>` GameObject.
 ```
 
 ---
 
 > Markdown output example
 
-Expand the `Package Name Goes Here` package directory in the Unity Project window and select the `Packages -> Package Name -> Runtime -> Prefabs` directory then drag and drop the `NameOf.Prefab` prefab into the Unity Hierarchy window.
+Add a `<NameOf.Prefab>` prefab to the Unity project hierarchy by selecting `GameObject -> Tilia -> Prefabs -> <Package Path> -> <NameOf.Prefab>` from the Unity main top menu.
 
-## Image Example
+_or_
 
-```
-![Example Of How To Add Package Prefab To Scene](assets/images/ExampleOfHowToAddPackagePrefabToScene.png)
-```
-
-![Example Of How To Add Package Prefab To Scene](assets/images/ExampleOfHowToAddPackagePrefabToScene.png)
+Add a `<NameOf.Prefab>` prefab to the Unity project hierarchy by selecting `GameObject -> Tilia -> Prefabs -> <Package Path> -> <NameOf.Prefab>` from the Unity main top menu and drag it into being a child of the `<Parent GameObject>` GameObject.
 
 ## Final Output
 
 ```
 ### Step X
 
-Expand the `Tilia CameraRigs SpatialSimulator Unity` package directory in the Unity Project window and select the `Packages -> Tilia CameraRigs SpatialSimulator Unity -> Runtime -> Prefabs` directory then drag and drop the `CameraRigs.SpatialSimulator` prefab into the Unity Hierarchy window.
+Add a `CameraRigs.SpatialSimulator` prefab to the Unity project hierarchy by selecting `GameObject -> Tilia -> Prefabs -> CameraRigs -> CameraRigs.SpatialSimulator` from the Unity main top menu.
 
-![Adding Prefab To Scene](assets/images/AddingPrefabToScene.png)
+```
+
+_or_
+
+```
+### Step X
+
+Add a `Interactions.SpatialButton.OptionButton` prefab to the Unity project hierarchy by selecting `GameObject -> Tilia -> Prefabs -> Interactions -> SpatialButtons -> Interactions.SpatialButton.OptionButton` from the Unity main top menu and drag it into being a child of the `OptionGroup1 -> Buttons` GameObject.
+
 ```
 
 ---
@@ -36,12 +46,10 @@ Expand the `Tilia CameraRigs SpatialSimulator Unity` package directory in the Un
 
 ### Step X
 
-Expand the `Tilia CameraRigs SpatialSimulator Unity` package directory in the Unity Project window and select the `Packages -> Tilia CameraRigs SpatialSimulator Unity -> Runtime -> Prefabs` directory then drag and drop the `CameraRigs.SpatialSimulator` prefab into the Unity Hierarchy window.
+Add a `CameraRigs.SpatialSimulator` prefab to the Unity project hierarchy by selecting `GameObject -> Tilia -> Prefabs -> CameraRigs -> CameraRigs.SpatialSimulator` from the Unity main top menu.
 
-![Adding Prefab To Scene](assets/images/AddingPrefabToScene.png)
+_or_
 
-## Resources
+### Step X
 
-* Example Graphic
-  * [Fireworks PNG](assets/resource/FireworksPNG.fw.png)
-  * [Photoshop PSD](assets/resource/PhotoshopPSD.psd)
+Add a `Interactions.SpatialButton.OptionButton` prefab to the Unity project hierarchy by selecting `GameObject -> Tilia -> Prefabs -> Interactions -> SpatialButtons -> Interactions.SpatialButton.OptionButton` from the Unity main top menu and drag it into being a child of the `OptionGroup1 -> Buttons` GameObject.
